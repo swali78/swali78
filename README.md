@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there 👋<br><br>I'm Muhammad Swalih, a self-taught software developer and entrepreneur.<br><br>- Founder & CEO at Sandflare Innovations  <br>- Working on SaaS, AI systems, and e-commerce platforms  <br>- Interested in backend development, system design, and AI  <br><br><br>
 
 
